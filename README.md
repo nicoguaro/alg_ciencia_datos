@@ -20,7 +20,7 @@ curso se puede encontrar [acá](./referencias.md).
 
 Puede clonar el repositorio con:
 
-    git clone https://github.com/nicoguaro/AdvancedMath
+    git clone https://github.com/nicoguaro/alg_ciencia_datos
 
 o descargarlo directamente desde la opción de desgarga de GitHub.
 
