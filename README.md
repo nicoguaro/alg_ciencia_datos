@@ -2,9 +2,12 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicoguaro/alg_ciencia_datos/HEAD)
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicoguaro/alg_ciencia_datos)
+
+
 Este es un repositorio con material para el curso Álgebra para Ciencia de Datos.
-El programa del curso está ubicado [acá(./programa.md)]. La bibliografía del
-curso se puede encontrar [acá](./referencia.md).
+El programa del curso está ubicado [acá](./programa.md). La bibliografía del
+curso se puede encontrar [acá](./referencias.md).
 
 ## Contenido
 
@@ -15,12 +18,11 @@ curso se puede encontrar [acá](./referencia.md).
 
 ## Descargando el material
 
-You can clone the repo using:
+Puede clonar el repositorio con:
 
     git clone https://github.com/nicoguaro/AdvancedMath
 
-or directly use the download option from GitHub.
-
+o descargarlo directamente desde la opción de desgarga de GitHub.
 
 ## Instrucciones de instalación
 
@@ -29,7 +31,8 @@ Puede crear una ambiente de Anaconda usando
     conda env create -f alg_ciencia_datos.yml
 
 
-Este reposi [Jupyter Notebooks](https://jupyter.org/). To run these you will need [Python](https://www.python.org/) and some packages:
+Este repositorio [Jupyter Notebooks](https://jupyter.org/). Para ejecutarlos
+se necesita [Python](https://www.python.org/) y algunos paquetes:
 
 - [IPython](http://ipython.org/), una interfaz de línea de comandos para computación interactiva en múltiples lenguajes de programación que ofrece introspección, medios ricos, sintaxis de shell, completado de pestañas e historial.
 
