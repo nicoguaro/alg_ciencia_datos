@@ -1,0 +1,17 @@
+name: alg_ciencia_datos
+channels:
+ - conda-forge
+ - default
+dependencies:
+ - conda
+ - python>=3.11
+ - pip
+ - jupyterlab
+ - numpy
+ - scipy
+ - matplotlib
+ - scikit-learn
+ - pandas
+ - seaborn
+ - sympy
+ - ipympl
