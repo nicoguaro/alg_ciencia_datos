@@ -47,7 +47,7 @@ y el [Sistema de Álgebra Computacional (CAS)](https://en.wikipedia.org/wiki/Com
 El método sugerido es descargar una Distribución de Python, preferiblemente [Anaconda](https://www.continuum.io/downloads). Esto incluirá todos los paquetes mencionados anteriormente.
 
 
-## Licensia
+## Licencia
 
 Todo el código está bajo licencia MIT y los medios bajo Creative Commons Atribución.
 
